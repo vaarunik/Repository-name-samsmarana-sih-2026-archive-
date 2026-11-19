@@ -11,6 +11,11 @@ Developed for the **Smart India Hackathon (SIH) 2026** context, with a focus on 
 
 [Live application](https://sih-samsmarana.vercel.app) · [Source code](https://github.com/vaarunik/Repository-name-samsmarana-sih-2026)
 
+
+## Application preview
+
+![SAMSMARANA elder home dashboard](docs/screenshots/elder-home.jpg)
+
 ---
 
 ## The idea
